@@ -5,12 +5,21 @@
 </p>
 
 ## About me
-[![Generic badge](https://img.shields.io/badge/Notion-<COLOR>.svg)]([https://shields.io/](https://mica-feet-30d.notion.site/2099b7e646e780f289b1d087996f4a40?source=copy_link))  
+[![Generic badge](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)]([https://shields.io/](https://mica-feet-30d.notion.site/2099b7e646e780f289b1d087996f4a40?source=copy_link))  
 다양한 지식을 습득하며 방향성을 찾고 있는 개발자입니다.  
+
+
+## Tech Stacks
+|Category|Tech|
+|--------|----|
+|Language|![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![MARKDOWN](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) |
+|DevOps|![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+|Server|![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![MOSQUITTO](https://img.shields.io/badge/MOSQUITTO-660066?style=for-the-badge&logo=mqtt)|
 
 ## Projects
 |Name|Position|Duration|Description|
 |----|--------|--------|-----------|
+|??|Server|2025-06-20 ~ **UpComing**|KUIT5 프로젝트|
 |MDC|코드 수정 및 매뉴얼 작성|2025-03-19 ~ **Present*|연구실 프로젝트|
 
 
@@ -22,6 +31,7 @@
 |알콘|운영진|2025-03-11 ~ 2025-04-18|건국대학교 알고리즘동아리|
 |알콘|부원|2023-09-14 ~ 2025-03-11|건국대학교 알고리즘동아리|
 |비빔밥|부원|2022-03-21 ~ 2022-06-22|건국대학교 학술동아리|
+
 
 ## Participate
 - GDGoC Kprintf 참가
