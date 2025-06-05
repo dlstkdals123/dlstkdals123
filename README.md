@@ -32,8 +32,10 @@
 - 2023 건국대학교 프로그래밍 경진대회(KUPC) Division 2: 4등
 
 
-## Github stats
-[![dlstkdals123's github stats](https://github-readme-stats.vercel.app/api?username=dlstkdals123&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)  
+## stats
+[![dlstkdals123's github stats](https://github-readme-stats.vercel.app/api?username=dlstkdals123&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlstkdals123)](https://solved.ac/dlstkdals123/)  
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlstkdals123&layout=compact)
 
 
