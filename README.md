@@ -3,7 +3,7 @@
 ## About me
 [![Generic badge](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)]([https://shields.io/](https://mica-feet-30d.notion.site/2099b7e646e780f289b1d087996f4a40?source=copy_link))  
 다양한 지식을 습득하며 방향성을 찾고 있는 개발자입니다.  
-JAVA, SPRIING, SERVER에 대해서 공부중입니다.  
+JAVA, Spring, SERVER에 대해서 공부중입니다.  
 
 
 ## Tech Stacks
