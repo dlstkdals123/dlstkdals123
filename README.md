@@ -1,4 +1,4 @@
-<img align="right" src="https://badgen.net/github/last-commit/dlstkdals123/dlstkdals123/" />
+<img align="right" src="https://img.shields.io/github/last-commit/dlstkdals123/dlstkdals123" />
 
 ## About me
 [![Generic badge](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://mica-feet-30d.notion.site/2099b7e646e780f289b1d087996f4a40?source=copy_link)  
