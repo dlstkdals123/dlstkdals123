@@ -34,7 +34,7 @@ JAVA, Spring, SERVER에 대해서 공부중입니다.
 
 ## Participate
 - GDGoC Kprintf 참가
-- IT's Time(잇타) 7깅 네트워킹 행사 참가
+- IT's Time(잇타) 7기 네트워킹 행사 참가
 - 2024 ICPC 예선 참가
 - 2024 건국대학교 프로그래밍 경진대회(KUPC): 6등
 - 2023 ICPC 예선 참가
