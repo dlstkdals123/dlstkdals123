@@ -43,7 +43,7 @@ JAVA, Spring, SERVER에 대해서 공부중입니다.
 
 ## stats
 [![dlstkdals123's github stats](https://github-readme-stats.vercel.app/api?username=dlstkdals123&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlstkdals123)](https://solved.ac/profiles/dlstkdals123/)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlstkdals123)](https://solved.ac/profile/dlstkdals123/)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlstkdals123&layout=compact)
 
