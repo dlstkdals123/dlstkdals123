@@ -19,7 +19,7 @@ JAVA, Spring, SERVER에 대해서 공부중입니다.
 |Name|Position|Duration|Description|
 |----|--------|--------|-----------|
 |냠코치|Server|2025-06-28 ~ **Present**|KUIT5 프로젝트|
-|MDC|코드 수정 및 매뉴얼 작성|2025-03-19 ~ **Present**|연구실 프로젝트|
+|MDC|코드 수정 및 매뉴얼 작성|2025-03-25 ~ **Present**|연구실 프로젝트|
 
 
 ## Activites
