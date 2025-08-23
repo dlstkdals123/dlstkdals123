@@ -18,15 +18,15 @@ JAVA, Spring, SERVER에 대해서 공부중입니다.
 ## Projects
 |Name|Position|Duration|Description|
 |----|--------|--------|-----------|
-|냠코치|Server|2025-06-28 ~ **Present**|KUIT5 프로젝트|
 |MDC|코드 수정 및 매뉴얼 작성|2025-03-25 ~ **Present**|연구실 프로젝트|
+|냠코치|Server|2025-06-28 ~ 2025-08-21|KUIT5 프로젝트|
 
 
 ## Activites
 |Name|Position|Duration|Description|
 |----|--------|--------|-----------|
 |[CoinLab](http://coin.konkuk.ac.kr)|학부연구생|2025-03-25 ~ **Present**|건국대학교 연구실|
-|[KUIT](https://github.com/Konkuk-KUIT)|부원|2025-03-19 ~ **Present**|건국대학교 개발동아리|
+|[KUIT](https://github.com/Konkuk-KUIT)|부원|2025-03-19 ~ 2025-08-21|건국대학교 개발동아리|
 |알콘|운영진|2025-03-11 ~ 2025-04-18|건국대학교 알고리즘동아리|
 |알콘|부원|2023-09-14 ~ 2025-03-11|건국대학교 알고리즘동아리|
 |비빔밥|부원|2022-03-21 ~ 2022-06-22|건국대학교 학술동아리|
