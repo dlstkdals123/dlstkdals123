@@ -2,24 +2,25 @@
 
 ## About me
 [![Generic badge](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://mica-feet-30d.notion.site/2099b7e646e780f289b1d087996f4a40?source=copy_link)  
-다양한 지식을 습득하며 방향성을 찾고 있는 개발자입니다.  
-JAVA, Spring, SERVER에 대해서 공부중입니다.  
+학구열이 불타오르고 있는 연구자입니다.  
+우매함의 봉우리에서 내려가고 있습니다.  
 
 
 ## Tech Stacks
 |Category|Tech|
 |--------|----|
 |Language|![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex) |
-|DevOps|![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)|
+|DevOps|![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)|
 |Server|![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)|
 |AI & ML|![PYTORCH](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&labelColor=white) ![NUMPY](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy)|
-|ETC|![RASPBERRYPI](https://img.shields.io/badge/RASPBERRYPI-A22846?style=for-the-badge&logo=raspberrypi) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)|
+|ETC|![RASPBERRYPI](https://img.shields.io/badge/RASPBERRYPI-A22846?style=for-the-badge&logo=raspberrypi)|
 
 ## Projects
 |Name|Position|Duration|Description|
 |----|--------|--------|-----------|
-|MDC|코드 수정 및 매뉴얼 작성|2025-03-25 ~ **Present**|연구실 프로젝트|
-|냠코치|Server|2025-06-28 ~ 2025-08-21|KUIT5 프로젝트|
+|연구|Caching Policy|2025-08-18 ~ **Present**|연구실|
+|MDC|코드 수정 및 매뉴얼 작성|2025-03-25 ~ 2025-08-17|연구실|
+|냠코치|Server|2025-06-28 ~ 2025-08-21|KUIT5|
 
 
 ## Activites
@@ -33,8 +34,6 @@ JAVA, Spring, SERVER에 대해서 공부중입니다.
 
 
 ## Participate
-- GDGoC Kprintf 참가
-- IT's Time(잇타) 7기 네트워킹 행사 참가
 - 2024 ICPC 예선 참가
 - 2024 건국대학교 프로그래밍 경진대회(KUPC): 6등
 - 2023 ICPC 예선 참가
