@@ -41,11 +41,9 @@
 
 
 ## stats
-[![dlstkdals123's github stats](https://github-readme-stats.vercel.app/api?username=dlstkdals123&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![dlstkdals123's github stats](./profile/stats.svg)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlstkdals123)](https://solved.ac/profile/dlstkdals123)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlstkdals123&layout=compact)
-
+![Top Langs](./profile/langs.svg)
 
 ## Contacts
 언제든 연락주셔도 상관없습니다.  
