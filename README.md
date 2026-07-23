@@ -41,7 +41,7 @@
 
 
 ## stats
-[![dlstkdals123's github stats](./profile/stats.svg)](https://github.com/anuraghazra/github-readme-stats)  
+[![dlstkdals123's github stats](https://github-stats-extended.vercel.app/api?username=dlstkdals123)](https://github.com/stats-organization/github-stats-extended)  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlstkdals123)](https://solved.ac/profile/dlstkdals123)  
 ![Top Langs](./profile/langs.svg)  
 <img src="https://github.com/user-attachments/assets/3e02f4ee-a76d-4d2c-ba6e-c6d65587eba8" width="200px">  
